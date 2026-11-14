@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -33,4 +34,16 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
