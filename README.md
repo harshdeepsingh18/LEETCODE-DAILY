@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
