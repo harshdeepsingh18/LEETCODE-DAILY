@@ -1,34 +1,37 @@
-# 58. Length of Last Word
+<h2><a href="https://leetcode.com/problems/length-of-last-word">58. Length of Last Word</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> consisting of words and spaces, return <em>the length of the <strong>last</strong> word in the string.</em></p>
 
-- **Difficulty:** Easy
-- **LeetCode:** https://leetcode.com/problems/length-of-last-word/
+<p>A <strong>word</strong> is a maximal <span data-keyword="substring-nonempty">substring</span> consisting of non-space characters only.</p>
 
-## Description
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Given a string of words separated by spaces, return the length of its last word. A word is a maximal sequence of non-space characters.
+<pre>
+<strong>Input:</strong> s = &quot;Hello World&quot;
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The last word is &quot;World&quot; with length 5.
+</pre>
 
-## Examples
+<p><strong class="example">Example 2:</strong></p>
 
-**Example 1**
-```text
-Input: s = "Hello World"
-Output: 5
-```
+<pre>
+<strong>Input:</strong> s = &quot;   fly me   to   the moon  &quot;
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> The last word is &quot;moon&quot; with length 4.
+</pre>
 
-**Example 2**
-```text
-Input: s = " fly me to the moon "
-Output: 4
-```
+<p><strong class="example">Example 3:</strong></p>
 
-**Example 3**
-```text
-Input: s = "luffy is still joyboy"
-Output: 6
-```
+<pre>
+<strong>Input:</strong> s = &quot;luffy is still joyboy&quot;
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> The last word is &quot;joyboy&quot; with length 6.
+</pre>
 
-## Constraints
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-- `1 <= s.length <= 10^4`
-- `s` consists of English letters and spaces.
-- `s` contains at least one word.
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>s</code> consists of only English letters and spaces <code>&#39; &#39;</code>.</li>
+	<li>There will be at least one word in <code>s</code>.</li>
+</ul>
