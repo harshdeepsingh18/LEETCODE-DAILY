@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
