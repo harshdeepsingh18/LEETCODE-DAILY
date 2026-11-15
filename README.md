@@ -37,6 +37,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
+| [3783-mirror-distance-of-an-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
