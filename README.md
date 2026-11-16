@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0392-is-subsequence](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
 |  |
 | ------- |
