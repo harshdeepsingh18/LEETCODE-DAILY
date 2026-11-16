@@ -60,14 +60,17 @@
 | [0344-reverse-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
