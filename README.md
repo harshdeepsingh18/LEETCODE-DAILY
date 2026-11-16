@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
 ## String
