@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
@@ -122,6 +125,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -134,4 +138,12 @@
 | ------- |
 | [0136-single-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
