@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -112,4 +114,9 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
