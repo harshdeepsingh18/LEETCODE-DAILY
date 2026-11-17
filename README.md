@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
@@ -48,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -111,6 +115,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
