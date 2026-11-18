@@ -59,6 +59,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
