@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -32,6 +33,7 @@
 | [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
@@ -60,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sorting
@@ -69,6 +72,7 @@
 | [0169-majority-element](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
@@ -149,6 +154,7 @@
 | ------- |
 | [0136-single-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
