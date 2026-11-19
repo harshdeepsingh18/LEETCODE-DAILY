@@ -25,6 +25,7 @@
 | [1470-shuffle-the-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1672-richest-customer-wealth) |
+| [3925-concatenate-array-with-reverse](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3925-concatenate-array-with-reverse](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
