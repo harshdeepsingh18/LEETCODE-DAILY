@@ -25,6 +25,7 @@
 | [1470-shuffle-the-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1672-richest-customer-wealth) |
+| [2206-divide-array-into-equal-pairs](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/2206-divide-array-into-equal-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0383-ransom-note](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/2206-divide-array-into-equal-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [0231-power-of-two](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/0389-find-the-difference) |
+| [2206-divide-array-into-equal-pairs](https://github.com/harshdeepsingh18/LEETCODE-DAILY/tree/master/2206-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
